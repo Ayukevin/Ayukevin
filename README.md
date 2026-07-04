@@ -1,7 +1,5 @@
 ## Kai Yue Huang (Kevin)
 
-# Kai-Yueh〔姓氏拼音〕 (Kevin)
-
 - Based in **Tainan, Taiwan**
 - <https://github.com/Ayukevin>
 - kkyue5535@gmail.com
