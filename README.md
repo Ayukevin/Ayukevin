@@ -14,7 +14,7 @@
   Sep 2026 – 
 
 - **B.S. in Statistics**, National Cheng Kung University
-  Sep 2022 – Jun 2026 ｜ GPA: 〔你的GPA〕
+  Sep 2022 – Jun 2026 
   * Double major in **History**
   * Coursework & focus: statistical inference, machine learning, deep learning, and quantitative finance.
 
@@ -26,7 +26,7 @@
   Feb 2026 – Jun 2026｜ Tainan, Taiwan
   * Designed course materials and exercises; reviewed student lab manuals
   * Open-sourced the lecture notes as an OER project
-  * Portfolio:[lecture note](https://github.com/Ayukevin/Engineer-statistics---2026)
+  * Portfolio: [Lecture Note](https://github.com/Ayukevin/Engineer-statistics---2026)
 
 - **Summer Intern**, Open Culture Foundation (OCF)
   Jul 2024 – Aug 2024 ｜ Taipei, Taiwan (Hybrid)
