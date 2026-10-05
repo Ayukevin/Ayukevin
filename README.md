@@ -11,12 +11,13 @@
 ## Education
 
 - **M.S. in Data Science**, National Cheng Kung University
-  Sep 2026 – 
+  Sep 2026 –
+  * member of the [NetAI Lab](https://sites.google.com/view/chengteli/home?authuser=0)
 
 - **B.S. in Statistics**, National Cheng Kung University
   Sep 2022 – Jun 2026 
   * Double major in **History**
-  * Coursework & focus: statistical inference, machine learning, deep learning, and quantitative finance.
+  * Coursework & focus: statistical inference, machine learning, deep learning, and GNN
 
 ---
 
@@ -41,6 +42,6 @@
 ## Skills
 
 - **Programming**: Python, R, SQL
-- **Domains**: Machine Learning, Deep Learning (DDPM, DQN, RNN/LSTM), Statistical Modeling, Quantitative Finance
+- **Domains**: Machine Learning, Deep Learning (DDPM, DQN, RNN/LSTM), Statistical Modeling
 - **Tools**: Git, LaTeX, Obsidian, POWER BI, Excel (VBA)
 - **Languages**: Mandarin (Native), English (TOEIC 865)
