@@ -2,7 +2,7 @@
 
 - Based in **Tainan, Taiwan**
 - <https://github.com/Ayukevin>
-- kkyue5535@gmail.com
+- kkyue5525@gmail.com
 - M.S. student in **Data Science @ NCKU** (Sep 2026)
 - Aspiring to become a **Data Scientist** 
 
